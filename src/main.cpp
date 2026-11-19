@@ -1,3 +1,12 @@
+/* 
+   ====================================================================
+   Materia: Laboratorio de Programación (LPR) — 5°
+   Institución: E.E.S.T. N° 1 "Eduardo Ader" - Vicente López
+   Archivo: src/main.cpp
+   Actividad 5: Modelado de datos con Structs y Punteros
+   ====================================================================
+*/
+
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -17,9 +26,9 @@ int main() {
     // Inicializacion de la estructura
     EntidadProyecto miEntidad = {0, "Vacio", 0.0f};
 
-    cout << "==========================================" << endl;
-    cout << "       MODELADO STRUCT - C++" << endl;
-    cout << "==========================================" << endl;
+    cout << "=====================================================" << endl;
+    cout << "  MODELADO STRUCT - ESTUDIANTE: Benjamin Hlynczuk " << endl;
+    cout << "=====================================================" << endl;
 
     // Enviamos la direccion de memoria de la estructura
     cargarDatos(&miEntidad);
