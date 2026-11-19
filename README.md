@@ -87,7 +87,7 @@ En la carpeta `capturas/` se encuentra la evidencia visual de la ejecución del 
 
 Dentro de la carpeta `docs/` se encuentra el informe de la actividad, mientras que en `docs/manuales/` se incluye el Manual del Programador, donde se explica la estructura del código, los conceptos utilizados y el procedimiento de compilación y ejecución.
 
-## 👨‍💻 Autoría
+##  Autoría
 
 **Institución:** EEST N.º 1 – Eduardo Ader  
 **Materia:** Laboratorio de Programación  
