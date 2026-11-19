@@ -3,7 +3,7 @@
 
 **Materia:** Laboratorio de Programación  
 **Institución:** EEST N.º 1 – Eduardo Ader  
-**Curso:** 5.º año 3.ª  
+**Curso:** 5.º 3.ª  
 **Versión:** 1.0.0  
 **Lenguaje:** C++
 
@@ -245,4 +245,4 @@ También se pueden agregar nuevos atributos o funciones para ampliar sus capacid
 
 ## 8. Conclusión
 
-El desarrollo de este programa permitió aplicar conceptos fundamentales de C++, como las estructuras, los punteros y el acceso a los miembros mediante el operador flecha. La documentación de estos elementos facilita la comprensión del código y permite que otros programadores puedan modificarlo, mantenerlo o utilizarlo como base para futuros desarrollos del Proyecto Integrador Anual.
+El desarrollo de este programa permitió aplicar conceptos fundamentales de C++, como las estructuras, los punteros y el acceso a los miembros mediante el operador flecha. La documentación de estos elementos facilita la comprensión del código y permite que otros programadores puedan modificarlo, mantenerlo o utilizarlo como base para futuros desarrollos del P.I.A.(Proyecto Integrador Anual).
